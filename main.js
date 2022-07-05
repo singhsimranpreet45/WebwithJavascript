@@ -352,3 +352,6 @@ const person2 = new Person('Mary', 'Smith','3-6-1970');
 
 console.log(person2.getFullName());
 
+
+//
+
